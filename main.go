@@ -1,8 +1,8 @@
 package main
 
-import "github.com/a-bleier/aoc2020/day4"
+import "github.com/a-bleier/aoc2020/day5"
 
 func main() {
 	//day1.Run()
-	day4.Run()
+	day5.Run()
 }
