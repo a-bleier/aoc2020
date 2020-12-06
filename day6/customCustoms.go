@@ -37,7 +37,7 @@ func Run() {
 			if found == true {
 				counterB++
 			}
-			if strings.Count(s, string('a'+i)) != 0 {
+			if strings.Contains(s, string('a'+i)) == true {
 				counterA++
 			}
 
